@@ -1,0 +1,52 @@
+.profile-pic
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+   margin-left: 20px;
+}
+.Add_money
+{
+    margin-left: 150px;
+    background-color: green;
+}
+.image
+{
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+}
+
+.username
+{
+    margin-left: 87px;
+}
+.email
+{
+    margin-left: 120px;
+}
+.wallet
+{
+    margin-left: 60px;
+}
+.phone_number
+{
+    margin-left: 50px;
+}
+.order-heading
+{
+    margin-left: 30px;
+}
+
+@media (max-width : 768px) {
+    .profile-pic
+    {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 120px;
+        
+    }
+    .order-heading
+{
+    text-align: center;
+}
+  }

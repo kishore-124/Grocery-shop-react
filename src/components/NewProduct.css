@@ -1,0 +1,20 @@
+.form-fields
+{
+    margin-top: 20px;
+    width: 250px;
+    height: 35px;
+}
+
+.product
+{
+    text-align: center;
+    margin-top: 80px;
+}
+
+.button-product
+{
+    margin-top: 20px;
+    width: 50px;
+    background-color: white;
+    height: 35px;
+}
