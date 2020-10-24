@@ -1,0 +1,25 @@
+.image
+{
+    width: 150px;
+    height: 170px;
+}
+.Product_card
+{
+    margin-top: 13px;
+    margin-left: 20px;
+  
+}
+.cart
+{
+    height: 30px;
+    width: 250px;
+    background-color: #008000;
+}
+
+@media (max-width : 768px) {
+    .Product_card
+{
+    margin-top: 13px;
+  
+}
+}
